@@ -1,3 +1,12 @@
+---
+Dokument: Rahmenordnung für Fachabteilungen
+Version: 1.0
+Status: Freigegeben
+Grundlage: Satzung des Pferdesportvereins Ulm/Neu-Ulm e.V.
+Beschlossen durch:
+Gültig ab:
+Verantwortlich: Gesamtvorstand
+---
 # Rahmenordnung
 
 ## Fachabteilungen des Pferdesportvereins Ulm/Neu-Ulm e.V.
