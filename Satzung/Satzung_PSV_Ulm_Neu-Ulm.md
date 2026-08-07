@@ -595,21 +595,21 @@ Hinweis: Markdown-Übertragung zur Versionsverwaltung und zum späteren Review. 
      notwendigen Vollmachten ausgestattet, um seine Aufgaben erfüllen zu können.
 
 2.   Der Kassenwart hat folgende Aufgaben:
-    - Buchhaltung durchführen,
-    - Abwicklung von Zahlungen und Buchungen,
-    - Einnahmen und Ausgabe darstellen,
-    - Vorstand und Mitgliederversammlung informieren,
-    - Steuererklärung erstellen und Steuern abführen,
-    - Finanzdokumente verwalten und aufbewahren,
-    - Kasse verwalten und den Kassenbericht anfertigen,
-    - Rechnungen schreiben und begleichen,
-    - Mitglieder verwalten,
-    - ausstehende Mitgliedsbeiträge einfordern,
-    - Mahnungen verfassen und verschicken,
-    - Spenden annehmen und Spendenbescheinigungen ausstellen,
-    - Jahresabschluss und Einnahmenüberschussrechnung erstellen,
-    - Verwaltung der finanziellen Belange von Mitarbeitern (Gehälter, Abführen von
-      Arbeitgeberanteilen, usw.)
+     - Buchhaltung durchführen,
+     - Abwicklung von Zahlungen und Buchungen,
+     - Einnahmen und Ausgabe darstellen,
+     - Vorstand und Mitgliederversammlung informieren,
+     - Steuererklärung erstellen und Steuern abführen,
+     - Finanzdokumente verwalten und aufbewahren,
+     - Kasse verwalten und den Kassenbericht anfertigen,
+     - Rechnungen schreiben und begleichen,
+     - Mitglieder verwalten,
+     - ausstehende Mitgliedsbeiträge einfordern,
+     - Mahnungen verfassen und verschicken,
+     - Spenden annehmen und Spendenbescheinigungen ausstellen,
+     - Jahresabschluss und Einnahmenüberschussrechnung erstellen,
+     - Verwaltung der finanziellen Belange von Mitarbeitern (Gehälter, Abführen von
+       Arbeitgeberanteilen, usw.)
 
 3.   Sofern kein Kassenwart bestimmt ist, obliegen die Aufgaben des Kassenwarts dem
      Vorstand.
@@ -667,9 +667,9 @@ Hinweis: Markdown-Übertragung zur Versionsverwaltung und zum späteren Review. 
      Die Meldung dient zu Verwaltungs- und Organisationszwecken des LSB.
 
 4.   Der Verein ist Mitglied in folgenden Verbänden:
-     a) Kreisverband:  
-     b) ggf. Regionalverband:  
-     c) Landespferdesportverband:
+     (a) Kreisverband
+     (b) ggf. Regionalverband
+     (c) Landespferdesportverband
 
      Diesen werden für deren Verwaltungs- und Organisationszwecke bzw. zur
      Durchführung des Wettkampfbetriebes erforderliche Daten betroffener
@@ -677,36 +677,36 @@ Hinweis: Markdown-Übertragung zur Versionsverwaltung und zum späteren Review. 
      - Name, Vorname
      - Anschrift
 
-5.   Zur Wahrnehmung satzungsgemäßer Mitgliederrechte kann bei Verlangen der
+6.   Zur Wahrnehmung satzungsgemäßer Mitgliederrechte kann bei Verlangen der
      Vorstand gegen die schriftliche Versicherung, dass die Adressen nicht zu anderen
      Zwecken verwendet werden, Mitgliedern bei Darlegung eines berechtigten Interesses
      Einsicht in das Mitgliederverzeichnis gewähren.
 
-6.   Im Zusammenhang mit seinem Sportbetrieb sowie sonstigen satzungsgemäßen
+7.   Im Zusammenhang mit seinem Sportbetrieb sowie sonstigen satzungsgemäßen
      Veranstaltungen veröffentlicht der Verein personenbezogene Daten und Fotos seiner
      Mitglieder in seiner Vereinszeitung sowie auf seiner Homepage und übermittelt Daten
      und Fotos zur Veröffentlichung an Print- und Telemedien sowie elektronische Medien.
 
-7.   Eine anderweitige, über die Erfüllung seiner satzungsgemäßen Aufgaben und Zwecke
+8.   Eine anderweitige, über die Erfüllung seiner satzungsgemäßen Aufgaben und Zwecke
      hinausgehende Datenverwendung ist dem Verein – abgesehen von einer
      ausdrücklichen Einwilligung – nur erlaubt, sofern er aufgrund einer rechtlichen
      Verpflichtung, der Erfüllung eines Vertrages oder zur Wahrung berechtigter Interessen,
      sofern nicht die Interessen der betroffenen Personen überwiegen, hierzu verpflichtet ist.
      Ein Datenverkauf ist nicht statthaft.
 
-8.   Jedes Mitglied hat im Rahmen der rechtlichen Vorschriften, insbesondere der DSGVO
+9.   Jedes Mitglied hat im Rahmen der rechtlichen Vorschriften, insbesondere der DSGVO
      und des BDSG, das Recht auf Auskunft über die zu seiner Person gespeicherten
      Daten, deren Empfänger und den Zweck der Speicherung sowie auf Berichtigung,
      Löschung oder Sperrung, Einschränkung, Widerspruch und Übertragbarkeit seiner
      Daten.
 
-9.   Bei Beendigung der Mitgliedschaft werden personenbezogene Daten gelöscht, sobald
+10.   Bei Beendigung der Mitgliedschaft werden personenbezogene Daten gelöscht, sobald
      ihre Kenntnis nicht mehr erforderlich ist. Daten, die einer gesetzlichen oder
      satzungsmäßigen Aufbewahrungspflicht unterliegen, werden für die weitere
      Verwendung gesperrt und nach Ablauf der Aufbewahrungspflicht entsprechend Satz 1
      gelöscht.
 
-10. Die vereins- und personenbezogenen Daten werden durch geeignete technische und
+11. Die vereins- und personenbezogenen Daten werden durch geeignete technische und
     organisatorische Maßnahmen vor dem Zugriff Dritter geschützt.
 
 
