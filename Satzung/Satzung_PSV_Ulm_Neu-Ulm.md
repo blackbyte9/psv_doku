@@ -595,21 +595,21 @@ Hinweis: Markdown-Übertragung zur Versionsverwaltung und zum späteren Review. 
      notwendigen Vollmachten ausgestattet, um seine Aufgaben erfüllen zu können.
 
 2.   Der Kassenwart hat folgende Aufgaben:
-         - Buchhaltung durchführen,
-         - Abwicklung von Zahlungen und Buchungen,
-         - Einnahmen und Ausgabe darstellen,
-         - Vorstand und Mitgliederversammlung informieren,
-         - Steuererklärung erstellen und Steuern abführen,
-         - Finanzdokumente verwalten und aufbewahren,
-         - Kasse verwalten und den Kassenbericht anfertigen,
-         - Rechnungen schreiben und begleichen,
-         - Mitglieder verwalten,
-         - ausstehende Mitgliedsbeiträge einfordern,
-         - Mahnungen verfassen und verschicken,
-         - Spenden annehmen und Spendenbescheinigungen ausstellen,
-         - Jahresabschluss und Einnahmenüberschussrechnung erstellen,
-         - Verwaltung der finanziellen Belange von Mitarbeitern (Gehälter, Abführen von
-            Arbeitgeberanteilen, usw.)
+    - Buchhaltung durchführen,
+    - Abwicklung von Zahlungen und Buchungen,
+    - Einnahmen und Ausgabe darstellen,
+    - Vorstand und Mitgliederversammlung informieren,
+    - Steuererklärung erstellen und Steuern abführen,
+    - Finanzdokumente verwalten und aufbewahren,
+    - Kasse verwalten und den Kassenbericht anfertigen,
+    - Rechnungen schreiben und begleichen,
+    - Mitglieder verwalten,
+    - ausstehende Mitgliedsbeiträge einfordern,
+    - Mahnungen verfassen und verschicken,
+    - Spenden annehmen und Spendenbescheinigungen ausstellen,
+    - Jahresabschluss und Einnahmenüberschussrechnung erstellen,
+    - Verwaltung der finanziellen Belange von Mitarbeitern (Gehälter, Abführen von
+      Arbeitgeberanteilen, usw.)
 
 3.   Sofern kein Kassenwart bestimmt ist, obliegen die Aufgaben des Kassenwarts dem
      Vorstand.
@@ -667,8 +667,8 @@ Hinweis: Markdown-Übertragung zur Versionsverwaltung und zum späteren Review. 
      Die Meldung dient zu Verwaltungs- und Organisationszwecken des LSB.
 
 4.   Der Verein ist Mitglied in folgenden Verbänden:
-     a) Kreisverband:
-     b) ggf. Regionalverband:
+     a) Kreisverband:  
+     b) ggf. Regionalverband:  
      c) Landespferdesportverband:
 
      Diesen werden für deren Verwaltungs- und Organisationszwecke bzw. zur
