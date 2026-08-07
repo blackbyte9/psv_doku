@@ -2,14 +2,6 @@
 
 ## Organisationsmodell PSV
 
-Aktuelle Version
-
-# 0.8
-
----# Projektstatus
-
-## Organisationsmodell PSV
-
 **Aktuelle Version: 0.8**
 
 **Status:** Gesicherter Arbeitsstand vor dem Gesamt-Review
@@ -126,63 +118,3 @@ Vorgesehen sind insbesondere:
 Vorstandsbeschlussfähiger und in sich konsistenter Stand des Organisationsmodells.
 
 Die Satzung ist dabei gesondert zu betrachten: Änderungen an ihr unterliegen den hierfür vorgesehenen satzungs- und vereinsrechtlichen Verfahren.
-
-
-## Organisationshandbuch
-
-| Kapitel | Status |
-|----------|:------:|
-| Warum dieses Organisationsmodell? | ✅ |
-| Wie organisieren wir Verantwortung? | ✅ |
-| Wie bereiten wir Entscheidungen vor? | ✅ |
-| Nach welchen Grundsätzen handeln wir? | 🟡 |
-| Wie greifen unsere Regelwerke ineinander? | ⏳ |
-| Welche Verantwortung trägt der Vorstand? | ⏳ |
-| Welche Verantwortung übernehmen Fachabteilungen? | ⏳ |
-| Welche Rolle übernimmt der Beirat? | ⏳ |
-| Gemeinsam Verantwortung übernehmen | ⏳ |
-
----
-
-## Regelwerk
-
-| Dokument | Status |
-|-----------|:------:|
-| Rahmenordnung | ✅ |
-| Abteilungsordnung Klassisches Reiten | ✅ |
-
----
-
-## Richtlinien
-
-| Dokument | Status |
-|-----------|:------:|
-| Personalrichtlinie | ⏳ |
-| Vereinspferde | ⏳ |
-| Beschaffungsrichtlinie | ⏳ |
-| Berichtsrichtlinie | ⏳ |
-
----
-
-## Werkzeugkasten
-
-| Bereich | Status |
-|----------|:------:|
-| Diagramme | ⏳ |
-| Checklisten | ⏳ |
-| Formulare | ⏳ |
-
----
-
-## Ziel der Version 0.9
-
-- Organisationshandbuch vollständig
-- Kapitelreview abgeschlossen
-- Grafiken ergänzt
-- Beispiele ergänzt
-
----
-
-## Ziel der Version 1.0
-
-Vorstandsbeschlussfähige Dokumentation des Organisationsmodells.
