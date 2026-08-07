@@ -18,42 +18,80 @@ Das Organisationsmodell besteht aus mehreren aufeinander aufbauenden Dokumenten.
 
 ## Dokumentenstruktur
 
-```
+```text
 Satzung
-      │
-      ▼
+   │
+   ├── Organisationshandbuch
+   │      erklärt die Organisationsphilosophie
+   │
+   ▼
 Rahmenordnung
-      │
-      ▼
+   │
+   ▼
 Abteilungsordnungen
-      │
-      ▼
+   │
+   ▼
 Richtlinien
-      │
-      ▼
-Werkzeugkasten
+   │
+   ▼
+Toolbox
 ```
 
-Das Organisationshandbuch erläutert ausschließlich die Organisationsphilosophie des Vereins.
+Das Organisationshandbuch erläutert die Organisationsphilosophie und die Gedanken hinter dem Organisationsmodell.
 
-Verbindliche Regelungen ergeben sich ausschließlich aus
+Verbindliche Regelungen ergeben sich aus
 
 - der Satzung,
 - der Rahmenordnung,
 - den Abteilungsordnungen sowie
 - den hierzu erlassenen Richtlinien.
 
+Die Toolbox ergänzt das System um praktische Arbeitshilfen.
+
 ---
 
 ## Repositorystruktur
 
-```
+```text
+Satzung/
 Organisationshandbuch/
-Regelwerk/
+Ordnungen/
 Richtlinien/
 Toolbox/
 discussion/
 ```
+
+### Satzung
+
+Enthält die Satzung des Vereins als Markdown-Arbeitsfassung.  
+Die Markdown-Fassung dient der Versionsverwaltung und dem späteren Review. Maßgeblich bleibt die jeweils wirksame Originalfassung.
+
+### Organisationshandbuch
+
+Erklärt, warum das Organisationsmodell so aufgebaut ist und wie Vorstand, Beirat und Fachabteilungen zusammenwirken.
+
+### Ordnungen
+
+Enthält die verbindlichen organisatorischen Regelungen des Organisationsmodells:
+
+- Rahmenordnung für Fachabteilungen
+- Abteilungsordnung Fachabteilung Klassisches Reiten
+
+### Richtlinien
+
+Beschreiben die praktische Umsetzung der in den Ordnungen festgelegten Grundsätze.
+
+In Version 0.8 sind die bereits vorgesehenen Richtlinien als bewusste Struktur angelegt. Ihre inhaltliche Ausarbeitung erfolgt in späteren Entwicklungsschritten.
+
+### Toolbox
+
+Ist für praktische Vorlagen, Checklisten, Diagramme und Arbeitshilfen vorgesehen.
+
+Die Toolbox ist bewusst noch nicht Bestandteil des inhaltlichen Schwerpunkts der Version 0.8.
+
+### discussion
+
+Dient der Sammlung von offenen Fragen, Reviewpunkten und Ideen für spätere Entwicklungsschritte.
 
 ---
 
@@ -63,14 +101,20 @@ Aktuelle Version:
 
 **0.8**
 
+Version 0.8 dient vorrangig der **Sicherung des gemeinsam erarbeiteten aktuellen Standes**.
+
 Status:
 
-- ✅ Organisationsarchitektur entwickelt
-- ✅ Rahmenordnung Version 1.0 abgestimmt
-- ✅ Abteilungsordnung "Klassisches Reiten" Version 1.0 abgestimmt
-- 🔄 Organisationshandbuch in Ausarbeitung
-- ⏳ Richtlinien
-- ⏳ Werkzeugkasten
+- ✅ Organisationsarchitektur gesichert
+- ✅ Satzung als Markdown-Arbeitsfassung aufgenommen
+- ✅ Organisationshandbuch inhaltlich gesichert
+- ✅ Rahmenordnung Version 1.0 gesichert
+- ✅ Abteilungsordnung „Fachabteilung Klassisches Reiten“ Version 1.0 gesichert
+- 🟡 notwendige Richtlinien als geplante Dokumentstruktur angelegt
+- ⏳ Toolbox vorgesehen
+- ⏳ ausführliches Gesamt- und Satzungsreview steht aus
+
+Version 0.8 ist damit bewusst **kein finaler oder beschlussfähiger Stand**.
 
 ---
 
@@ -78,15 +122,19 @@ Status:
 
 Das Projekt wird iterativ entwickelt.
 
-Versionen:
-
 | Version | Bedeutung |
 |----------|-----------|
-| 0.8 | Vollständiger Arbeitsentwurf |
-| 0.9 | Review abgeschlossen |
-| 1.0 | Vorstandsbeschlussfähig |
+| 0.8 | Sicherung des vollständigen aktuellen Arbeitsstands |
+| 0.9 | Review und Konsolidierung |
+| 1.0 | Vorstandsbeschlussfähiger Stand |
 
-Neue Ideen werden zunächst diskutiert und anschließend in den Dokumenten umgesetzt.
+Für Version 0.8 gilt bewusst:
+
+> **Sichern vor Optimieren.**
+
+Inhaltliche, sprachliche und strukturelle Verbesserungen werden im anschließenden Review vorgenommen.
+
+Neue Ideen werden zunächst diskutiert und anschließend gezielt in den betroffenen Dokumenten umgesetzt.
 
 Dabei gilt der Grundsatz:
 
